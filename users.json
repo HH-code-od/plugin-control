@@ -1,8 +1,8 @@
 {
   "admin": {
-    "password": "admin123",    // 管理员密码（可改）
-    "role": "admin",           // 角色（区分管理员/普通用户，后续可扩展权限）
-    "status": "enable"         // 账号状态：enable=启用，disable=禁用
+    "password": "admin123",
+    "role": "admin",
+    "status": "enable"
   },
   "user001": {
     "password": "1253456",
@@ -12,6 +12,6 @@
   "user002": {
     "password": "654321",
     "role": "user",
-    "status": "enable"        // 这个账号被禁用，登录会提示
+    "status": "enable"
   }
 }

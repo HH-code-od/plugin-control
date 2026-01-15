@@ -2,6 +2,6 @@
   "global_enable": true,
   "login_enable": true,
   "notice": "欢迎使用插件！",
-  "ban_users": ["use002"],
+  "ban_users": ["user002"],
   "close_functions": []
 }

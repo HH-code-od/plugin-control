@@ -5,13 +5,13 @@
     "status": "enable"         // 账号状态：enable=启用，disable=禁用
   },
   "user001": {
-    "password": "123456",
+    "password": "1253456",
     "role": "user",
     "status": "enable"
   },
   "user002": {
     "password": "654321",
     "role": "user",
-    "status": "disable"        // 这个账号被禁用，登录会提示
+    "status": "enable"        // 这个账号被禁用，登录会提示
   }
 }
